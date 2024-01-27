@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AndroidTask</string>
+    <string name="str_login_screen">Login Screen</string>
+    <string name="str_home_screen">Welcome Home Screen</string>
+    <string name="str_email">Email</string>
+    <string name="str_mobile">Enter Mobile Number</string>
+    <string name="str_password">Password</string>
+    <string name="str_login">Login</string>
+    <string name="str_send">Send OTP</string>
+    <string name="str_not_have">Don\'t Have Account?</string>
+    <string name="str_register"><u>Register</u></string>
+    <string name="str_step1">Step1</string>
+    <string name="str_step2">Step2</string>
+    <string name="str_step3">Step3</string>
+    <string name="str_empty_error">Field can not be empty</string>
+    <string name="str_please_enter">Please enter valid value</string>
+</resources>
